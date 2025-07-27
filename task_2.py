@@ -7,7 +7,7 @@
 class Tester:
 
     def __init__(self, name):
-         self.namename = name
+         self.name = name
          self.deadline = True
 
     def work_hard(self, deadline=True):
